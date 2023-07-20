@@ -3,7 +3,7 @@
 Introduction
 ===============
 
-This content is the introduction
+This content is the introduction. Here we have more content.
 
 Details
 ===============
